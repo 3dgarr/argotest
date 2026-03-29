@@ -17,4 +17,4 @@ spec:
         - name: hello-app
           image: wil42/playground:v2   # change v1 - v2 to deploy a new version
           ports:
-            - containerPort: 8080
+            - containerPort: 8888
